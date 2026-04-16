@@ -4,9 +4,7 @@ Multi-modal Interaction Enhanced Segment Anything Model (MIE-SAM) for RGB-T Sali
 
 # Usage
 
-Install the environment:
-
-conda env create -f environment.yml
+Install the environment:conda env create -f environment.yml
 
 You can get the pre-trained model here: https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints
 
